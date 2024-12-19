@@ -1,0 +1,4 @@
+coelho,terrestre
+leão,terrestre
+cobra,terrestre
+canguru,terrestre
